@@ -35,11 +35,29 @@ Perform Code Reviews
 Conduct Unit Testing
     While excellence in performance, trust, and long-term success depends on maintaining set standards, guidelines, and metrics, the premise has to be built on manageable high expectations. Whether it is a business, a software project, or even personal initiatives, an expected base level of discipline dictates that quality and work ensures reliability. In effect, productivity improves, reputation increases, and credibility enhances customer satisfaction.
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
-
+A well-defined scope enables precise resource allocation by identifying the tasks, timelines, and manpower required to achieve the project's objectives. It helps project managers develop realistic schedules and budgets, ensuring that the project remains feasible and within constraints.
+   A Work Breakdown Structure (WBS) is a hierarchical decomposition of a project into smaller, manageable components or tasks. It organizes the project into levels, starting from the overarching project goal and breaking it down into sub-projects, deliverables, and individual tasks. Each level represents a finer level of detail, ultimately outlining all the work required to achieve the project objectives.
+   WBS is useful because of Clear Scope Definition, Improved Planning, Enhanced Accountability and Progress Tracking
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+   Benefits are:
+   a) Improved Time Management
+   b) It helps identify resource needs
+   c) Progress Tracking:
+   Gantt Charts Assist in:
+   a)Clear Visual Representation
+   b) Task Dependencies
+   c)Resource Planning
+   d) Collaboration and Communication
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+The software is to enable smooth processing of analysis of results for assessment done by junior schools in Kenya. The teachers fill manually in the schools and it is consuming a lot of time and it is hectic as well as not accurate.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+  Clearly defining the problem is essential in software development because it ensures alignment among stakeholders, focuses the team's efforts on relevant solutions, optimizes resource use, identifies risks early, encourages innovative problem-solving, simplifies testing, and streamlines communication. This foundation enhances the development process and results in a more effective and efficient software solution.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+What if you could just fill the assessment levels on one page and then get the results instantly? 95 % of public junior schools fill the assesment manually and it is hectic.
+Assesments are done easily and the results produced at the comfort of your phone or laptop and everywhere. The report cards are produced at one click.
 ## 11. What are the main features or functionalities that make your software stand out?
+The software is easy to navigate and use friendly. The assessors just fill the scores and it automatically grades.
 ## 12. What data is available regarding the market size and growth potential for your software?
-## 13. How can understanding market trends inform your software’s positioning and development?
+ The public junior schools in kenya are approximately 23, 000. Most of the schools don't have the automated analysis of the assessment done.
+## 13. How can understanding market trends inform your software’s positioning and development
+  Understanding market trends helps in making decisions of future like scalability and returns on investment.
